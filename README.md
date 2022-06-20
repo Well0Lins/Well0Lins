@@ -1,4 +1,4 @@
-## Oi!!! Eu sou o Well Lins
+## Oi!!! Eu sou o Wellington Lins
 
 
 - 🔭 Atualmente trabalho com dados variáveis em uma empresa de impressão, com a linguagem VB.NET e C# ...
