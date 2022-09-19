@@ -1,8 +1,8 @@
 ## Oi!!! Eu sou o Wellington Lins
 
 
-- 🔭 Atualmente trabalho com manipulação de dados variáveis em uma gráfica, utilizando a linguagem VB.NET
-- 🌱 Estou concluindo engenharia decomputação e me aprofudando em Java Script.
+- 🔭 Atualmente trabalho com manipulação de dados variáveis em uma gráfica, utilizando a linguagem VB.NET.
+- 🌱 Estou concluindo engenharia de computação e me aprofudando em JavaScript.
 - 🌱 Tenho um conhecimento em Python, MySQL e JavaScript .
   
 <div>
