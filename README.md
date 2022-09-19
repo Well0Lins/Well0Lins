@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho com manipulação de dados variáveis em uma gráfica, utilizando a linguagem VB.NET
 - 🌱 Estou concluindo engenharia decomputação e me aprofudando em Java Script.
-- 🌱 Tenho um conhecimento em Python e MySQL.
+- 🌱 Tenho um conhecimento em Python, MySQL e JavaScript .
   
 <div>
 <a href="https://github.com/Well0Lins">
