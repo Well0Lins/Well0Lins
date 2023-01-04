@@ -2,8 +2,8 @@
 
 
 <div>
-<p>- 🔭 Atualmente trabalho com manipulação de dados variáveis em uma gráfica, utilizando a linguagem VB.NET.</p>
-<p>- 🌱 Estou concluindo engenharia de computação e me aprofudando em JavaScript.</p>
+<p>- 🔭 Trabalhei com manipulação de dados variáveis em uma gráfica, utilizando a linguagem VB.NET.</p>
+<p>- 🌱 Finalizei o curso de engenharia de computação e estou me aprofudando em JavaScript.</p>
 <p>- 🌱 Tenho um conhecimento em Python, MySQL, HTML, CSS e JavaScript .</p>
 </div>
 
