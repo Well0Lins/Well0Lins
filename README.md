@@ -3,7 +3,7 @@
 
 <div>
   <p>- :man_technologist: Trabalhei com manipulação de dados variáveis em uma gráfica, utilizando a linguagem VB.NET.</p>
-  <p>- :man_student: Finalizeia a faculdade de engenharia de computação e estou me aprofudando em JavaScript.</p>
+  <p>- :man_student: Concluí a faculdade de engenharia de computação e estou me aprofudando em JavaScript e React.</p>
   <p>- :books: Tenho um conhecimento em JavaScript, MySQL e Python.</p>
 </div>
 
