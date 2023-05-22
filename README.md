@@ -1,10 +1,10 @@
-<h1> :rose: Olá, meus consagrados(a)!!! :rose: 
-<br> :partying_face: Sejam muito bem-vindos(a) :partying_face:  </h1>
+<h1 align="center"> :rose: Olá, meus consagrados(a)!!! :rose: 
+<br align="center"> :partying_face: Sejam muito bem-vindos(a) :partying_face:  </h1>
 
 <div>
-  <p>- :man_technologist: Trabalhei com manipulação de dados variáveis em uma gráfica, utilizando a linguagem VB.NET.</p>
-  <p>- :man_student: Concluí a faculdade de engenharia de computação e estou me aprofudando em JavaScript e React.</p>
-  <p>- :books: Tenho um conhecimento em JavaScript, MySQL e Python.</p>
+  <p>- :man_technologist: Me chamo Wellington, mas podem me chamar de Well.</p>
+  <p>- :man_student: Concluí a faculdade de engenharia de computação e estou com objetivo de me aprofundar na área de programação.</p>
+  <p>- :books: Comecei os estudos específicos a pouco mais de um ano nas linguagens JavaScript, MySQL e Python.</p>
 </div>
 
 ##
@@ -15,20 +15,25 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Well0Lins&layout=compact&langs_count=7&theme=dracula"/>
 </div>    
 
- ##
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="CSS" height="30" width="40" src="https://camo.githubusercontent.com/0f1467412517588deb85362f86859df12b70e6ed44f7b69c92162a10030238de/68747470733a2f2f69302e77702e636f6d2f7777772e646f776e6c6f6164696e666f726d65722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031322f31322f76622d6c6f676f2d332e706e67">
-</div>
+ ## 🛠 My Stacks
 
-## 
-:rose: Contact me!!! :rose:
+  ### Front-end
+  <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JAVASCRIPT"/> </code>
+  <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="REACT"/> </code>
+  <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TYPESCRIPT"/> </code>
+  <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5"/> </code>
+  <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title="CSS3"/> </code>
+  
+  ### Back-end
+  <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NODE.JS"/> </code>
+  <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="PYTHON"/> </code>
+  
+  ### Database
+  <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL"/> </code>
+
+##
+  ### :rose:  Connect to me! :rose:
+
 <div> 
   <a href="https://www.linkedin.com/in/wellington-lins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
