@@ -37,7 +37,7 @@
 <div> 
   <img src="https://e7.pngegg.com/pngimages/874/97/png-clipart-emoji-league-of-legends-discord-emoji-fictional-character-meme-thumbnail.png" width="100" />
   <br/>
-  <a href="https://www.linkedin.com/in/wellington-lins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/wellington4lins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   
   
   ##
