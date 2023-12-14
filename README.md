@@ -1,5 +1,5 @@
-<h1 align="center"> :rose: Olá, meus consagrados(a)!!! :rose: 
-<br align="center"> :partying_face: Sejam muito bem-vindos(a) :partying_face:  </h1>
+<h1 align="center"> Olá, meus consagrados(a)!!!
+<br align="center"> Sejam muito bem-vindos(a)  </h1>
 
 <div>
   <p>- :man_technologist: Me chamo Wellington, mas podem me chamar de Well.</p>
