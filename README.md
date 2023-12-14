@@ -32,7 +32,7 @@
   <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL"/> </code>
 
 ##
-  ### :rose:  Connect to me! :rose:
+  ###   Connect to me!
 
 <div> 
   <img src="https://e7.pngegg.com/pngimages/874/97/png-clipart-emoji-league-of-legends-discord-emoji-fictional-character-meme-thumbnail.png" width="100" />
