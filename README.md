@@ -31,6 +31,9 @@
   <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NODE.JS"/> </code>
   <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="PYTHON"/> </code>
   
+  <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="GOLANG"/> </code>
+  <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JAVA"/> </code>
+  
   ### Database
   <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MYSQL"/> </code>
 
@@ -41,9 +44,4 @@
   <img src="https://e7.pngegg.com/pngimages/874/97/png-clipart-emoji-league-of-legends-discord-emoji-fictional-character-meme-thumbnail.png" width="100" />
   <br/>
   <a href="https://www.linkedin.com/in/wellington4lins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  
-  
-  ##
-  
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 </div>
