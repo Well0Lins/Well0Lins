@@ -1,5 +1,5 @@
-<h1 align="center"> Olá, meus consagrados(a)!!!
-<br align="center"> Sejam muito bem-vindos(a)  </h1>
+<h1 align="center"> Olá, meus consagrados!!!
+<br align="center"> Sejam muito bem-vindos </h1>
 
 <div>
   <p>- :man_technologist: Me chamo Wellington, mas podem me chamar de Well.</p>
