@@ -3,8 +3,9 @@
 
 <div>
   <p>- :man_technologist: Me chamo Wellington, mas podem me chamar de Well.</p>
-  <p>- :man_student: Concluí a faculdade de engenharia de computação e estou com objetivo de me aprofundar na área de programação.</p>
-  <p>- :books: Comecei os estudos específicos a pouco mais de um ano nas linguagens JavaScript, MySQL e Python.</p>
+  <p>- :man_student: Concluí a faculdade de engenharia de computação.</p>
+  <p>- 👷‍♂️: Atualmente estou a procura de uma oportunidade para aplicar meus estudos.</p>
+  
 </div>
 
 ##
