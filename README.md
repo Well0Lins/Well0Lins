@@ -3,8 +3,8 @@
 
 <div>
   <p>- :man_technologist: Me chamo Wellington, mas podem me chamar de Well.</p>
-  <p>- :man_student: Concluí a faculdade de engenharia de computação.</p>
-  <p>- 👷‍♂️ Atualmente estou a procura de uma oportunidade para agregar com meus conhecimentos.</p>
+  <p>- :man_student: Bacharel em engenharia de computação.</p>
+  <p>- 👷‍♂️ Atualmente estou a procura de uma equipe para agregar com meus conhecimentos.</p>
   
 </div>
 
